@@ -1,7 +1,7 @@
 # CS-340
 How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 
-Using good coding practices for Pyrthon. Consider every use case and my intentions for that program. Making it easy and adaptable for myself and for others to understand. Wokring this way allowed me to understand how to implenment CRUD for creating, inputting, changing, deleting information for any size database.
+Using good coding practices for Pyrthon. Consider every use case and my intentions for that program. Making it easy and adaptable for myself and for others to understand. Working this way allowed me to understand how to implenment CRUD for creating, inputting, changing, and deleting information for any size database.
 
 How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
 
